@@ -7,3 +7,6 @@ Based on the tutorial here: https://github.com/taggartk/github-101-class-nicar-2
 ~test~
 
 Easy as A-B-C
+=======
+Ali is the greatest. Visit [her twitter](http://www.twitter.com/voteforali).
+
