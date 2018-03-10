@@ -10,3 +10,5 @@ Easy as A-B-C
 =======
 Ali is the greatest. Visit [her twitter](http://www.twitter.com/voteforali).
 
+[Another link for you](https://www.buzzfeed.com/mattbellassai/the-40-greatest-dog-gifs-of-2012-6z51).
+
